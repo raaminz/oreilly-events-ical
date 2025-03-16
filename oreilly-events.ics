@@ -1,0 +1,1694 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//arran4//Golang ICS Library
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920055602:live-event:0642572012242:session:0642572012245
+STATUS:CONFIRMED
+CREATED:20250317T120000Z
+DTSTAMP:20250317T120000Z
+DTSTART:20250317T120000Z
+DTEND:20250317T160000Z
+SUMMARY:Comparing Software Architectures
+DESCRIPTION:Topic: Software Architecture\n\nHow to evaluate different
+  architecture solutions\n\nLevel: intermediate\nInstructor: Jacqui Read
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920055088:live-event:0642572014071:session:0642572014073
+STATUS:CONFIRMED
+CREATED:20250317T120000Z
+DTSTAMP:20250317T120000Z
+DTSTART:20250317T120000Z
+DTEND:20250317T160000Z
+SUMMARY:Spring and Spring Boot in 3 Weeks
+DESCRIPTION:Topic: Spring\n\nBuild and monitor powerful server-side systems
+  and web services in Java\n\nLevel: beginner\, intermediate\nInstructor:
+  Ken Kousen
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920055088:live-event:0642572014071:session:0642572014075
+STATUS:CONFIRMED
+CREATED:20250324T120000Z
+DTSTAMP:20250324T120000Z
+DTSTART:20250324T120000Z
+DTEND:20250324T160000Z
+SUMMARY:Spring and Spring Boot in 3 Weeks
+DESCRIPTION:Topic: Spring\n\nBuild and monitor powerful server-side systems
+  and web services in Java\n\nLevel: beginner\, intermediate\nInstructor:
+  Ken Kousen
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920055088:live-event:0642572014071:session:0642572014077
+STATUS:CONFIRMED
+CREATED:20250331T120000Z
+DTSTAMP:20250331T120000Z
+DTSTART:20250331T120000Z
+DTEND:20250331T160000Z
+SUMMARY:Spring and Spring Boot in 3 Weeks
+DESCRIPTION:Topic: Spring\n\nBuild and monitor powerful server-side systems
+  and web services in Java\n\nLevel: beginner\, intermediate\nInstructor:
+  Ken Kousen
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920097025:live-event:0642572009299:session:0642572009301
+STATUS:CONFIRMED
+CREATED:20250317T123000Z
+DTSTAMP:20250317T123000Z
+DTSTART:20250317T123000Z
+DTEND:20250317T143000Z
+SUMMARY:Generative AI for Everyone
+DESCRIPTION:Topic: Generative AI\, AI Principles\n\nUnderstand generative
+  AI applications\, benefits\, and risks\n\nLevel: beginner\nInstructor:
+  Altaf Rehmani
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920064014:live-event:0642572014142:session:0642572014144
+STATUS:CONFIRMED
+CREATED:20250317T130000Z
+DTSTAMP:20250317T130000Z
+DTSTART:20250317T130000Z
+DTEND:20250317T180000Z
+SUMMARY:Building Enterprise Apps with React
+DESCRIPTION:Topic: React\n\nBest Practices for Managing Complexity in React
+  Applications\n\nLevel: advanced\nInstructor: Andy Olsen
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572005386:live-event:0642572013993:session:0642572013995
+STATUS:CONFIRMED
+CREATED:20250317T140000Z
+DTSTAMP:20250317T140000Z
+DTSTART:20250317T140000Z
+DTEND:20250317T180000Z
+SUMMARY:Kubernetes Fundamentals in 2 Weeks—with Interactivity
+DESCRIPTION:Topic: Kubernetes\n\nGet started with terms\, architecture\,
+  containers\, microservices\, pods\, and common resources\n\nLevel:
+  beginner\nInstructor: Jonathan Johnson 
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572005386:live-event:0642572013993:session:0642572013997
+STATUS:CONFIRMED
+CREATED:20250324T140000Z
+DTSTAMP:20250324T140000Z
+DTSTART:20250324T140000Z
+DTEND:20250324T180000Z
+SUMMARY:Kubernetes Fundamentals in 2 Weeks—with Interactivity
+DESCRIPTION:Topic: Kubernetes\n\nGet started with terms\, architecture\,
+  containers\, microservices\, pods\, and common resources\n\nLevel:
+  beginner\nInstructor: Jonathan Johnson 
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920051144:live-event:0642572013676:session:0642572013679
+STATUS:CONFIRMED
+CREATED:20250317T140000Z
+DTSTAMP:20250317T140000Z
+DTSTART:20250317T140000Z
+DTEND:20250317T170000Z
+SUMMARY:Identity and Access Management Fundamentals
+DESCRIPTION:Topic: Identity and Access Management (IAM)\n\nSecuring your
+  data for a zero trust environment\n\nLevel: intermediate\nInstructor:
+  Harpreet Kohli 
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572012410:live-event:0642572012409:session:0642572013116
+STATUS:CONFIRMED
+CREATED:20250317T140000Z
+DTSTAMP:20250317T140000Z
+DTSTART:20250317T140000Z
+DTEND:20250317T170000Z
+SUMMARY:Event-Driven Architecture and Data Boot Camp
+DESCRIPTION:Topic: Event-Driven Architecture\n\nWorking with streams\,
+  data\, and generative AI within event-driven architectures\n\nLevel:
+  intermediate\nInstructor: Adam Bellemare
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572012410:live-event:0642572012409:session:0642572013222
+STATUS:CONFIRMED
+CREATED:20250318T140000Z
+DTSTAMP:20250318T140000Z
+DTSTART:20250318T140000Z
+DTEND:20250318T170000Z
+SUMMARY:Event-Driven Architecture and Data Boot Camp
+DESCRIPTION:Topic: Event-Driven Architecture\n\nWorking with streams\,
+  data\, and generative AI within event-driven architectures\n\nLevel:
+  intermediate\nInstructor: Adam Bellemare
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920064594:live-event:0642572014257:session:0642572014259
+STATUS:CONFIRMED
+CREATED:20250317T160000Z
+DTSTAMP:20250317T160000Z
+DTSTART:20250317T160000Z
+DTEND:20250317T190000Z
+SUMMARY:Fundamentals of Learning: Learn faster and better using
+  neuroscience
+DESCRIPTION:Topic: Memory Improvement / Mental Exercise\n\nLearn faster and
+  better using neuroscience\n\nLevel: beginner\, intermediate\nInstructor:
+  Connie Missimer
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920087438:live-event:0642572014285:session:0642572014287
+STATUS:CONFIRMED
+CREATED:20250317T170000Z
+DTSTAMP:20250317T170000Z
+DTSTART:20250317T170000Z
+DTEND:20250317T210000Z
+SUMMARY:Threat Hunting with Wireshark for SecOps
+DESCRIPTION:Topic: Wireshark\n\nLearn to spot suspect traffic\n\nLevel:
+  beginner\, intermediate\nInstructor: Chris Greer
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920087438:live-event:0642572014285:session:0642572014289
+STATUS:CONFIRMED
+CREATED:20250318T170000Z
+DTSTAMP:20250318T170000Z
+DTSTART:20250318T170000Z
+DTEND:20250318T210000Z
+SUMMARY:Threat Hunting with Wireshark for SecOps
+DESCRIPTION:Topic: Wireshark\n\nLearn to spot suspect traffic\n\nLevel:
+  beginner\, intermediate\nInstructor: Chris Greer
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008474:live-event:0642572014233:session:0642572014235
+STATUS:CONFIRMED
+CREATED:20250318T120000Z
+DTSTAMP:20250318T120000Z
+DTSTART:20250318T120000Z
+DTEND:20250318T160000Z
+SUMMARY:RAG and AI Applications for Cybersecurity and Networking
+  Professionals
+DESCRIPTION:Topic: Security Operations\n\nA hands-on approach to RAG\,
+  Langchain\, LangGraph\, and LlamaIndex and AI applications\n\nLevel:
+  intermediate\nInstructor: Omar Santos
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008419:live-event:0642572014146:session:0642572014149
+STATUS:CONFIRMED
+CREATED:20250318T120000Z
+DTSTAMP:20250318T120000Z
+DTSTART:20250318T120000Z
+DTEND:20250318T160000Z
+SUMMARY:Python Machine Learning with scikit-learn
+DESCRIPTION:Topic: Scikit-learn\n\nGet started with Machine Learning
+  concepts and techniques in Python\n\nLevel: beginner\,
+  intermediate\nInstructor: Andy Olsen
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572000977:live-event:0642572012631:session:0642572012633
+STATUS:CONFIRMED
+CREATED:20250318T120000Z
+DTSTAMP:20250318T120000Z
+DTSTART:20250318T120000Z
+DTEND:20250318T170000Z
+SUMMARY:Fundamentals of Ansible
+DESCRIPTION:Topic: Ansible\n\nLearn the essentials of configuration as
+  code\n\nLevel: beginner\nInstructor: Raju Gandhi
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145079967:live-event:0642572011138:session:0642572011140
+STATUS:CONFIRMED
+CREATED:20250318T140000Z
+DTSTAMP:20250318T140000Z
+DTSTART:20250318T140000Z
+DTEND:20250318T170000Z
+SUMMARY:Fundamentals of Machine Learning for Software Engineers
+DESCRIPTION:Topic: Machine Learning\n\nUnderstanding and integrating models
+  into software\n\nLevel: beginner\nInstructor: Chelsea Troy 
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145079967:live-event:0642572011138:session:0642572011142
+STATUS:CONFIRMED
+CREATED:20250319T140000Z
+DTSTAMP:20250319T140000Z
+DTSTART:20250319T140000Z
+DTEND:20250319T170000Z
+SUMMARY:Fundamentals of Machine Learning for Software Engineers
+DESCRIPTION:Topic: Machine Learning\n\nUnderstanding and integrating models
+  into software\n\nLevel: beginner\nInstructor: Chelsea Troy 
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920090062:live-event:0642572012935:session:0642572012937
+STATUS:CONFIRMED
+CREATED:20250318T140000Z
+DTSTAMP:20250318T140000Z
+DTSTART:20250318T140000Z
+DTEND:20250318T170000Z
+SUMMARY:ChatGPT for Software Engineers
+DESCRIPTION:Topic: GPT\n\nHow to 10X your productivity with generative
+  AI\n\nLevel: beginner\, intermediate\nInstructor: Sergio Pereira
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054671:live-event:0642572011692:session:0642572011694
+STATUS:CONFIRMED
+CREATED:20250318T140000Z
+DTSTAMP:20250318T140000Z
+DTSTART:20250318T140000Z
+DTEND:20250318T160000Z
+SUMMARY:Leadership Communication Skills for Managers
+DESCRIPTION:Topic: Professional Communication\n\nLearn how to best
+  support\, respond to\, persuade\, and inspire your team\n\nLevel:
+  intermediate\nInstructor: Curtis Newbold
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572013449:live-event:0642572013448:session:0642572013711
+STATUS:CONFIRMED
+CREATED:20250318T150000Z
+DTSTAMP:20250318T150000Z
+DTSTART:20250318T150000Z
+DTEND:20250318T180000Z
+SUMMARY:Write Python Code with ChatGPT and Claude
+DESCRIPTION:Topic: Python\n\nGenerating code and troubleshooting with
+  LLMs\n\nLevel: intermediate\nInstructor: Trey Hunner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145066962:live-event:0642572010489:session:0642572010491
+STATUS:CONFIRMED
+CREATED:20250318T160000Z
+DTSTAMP:20250318T160000Z
+DTSTART:20250318T160000Z
+DTEND:20250318T190000Z
+SUMMARY:How LLMs Work
+DESCRIPTION:Topic: Large Language Models (LLMs)\n\nDemystify how word
+  embeddings power generative AI and LLMs like ChatGPT\n\nLevel:
+  beginner\nInstructor: Kate Harwood
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572013881:live-event:0642572013880:session:0642572013882
+STATUS:CONFIRMED
+CREATED:20250318T160000Z
+DTSTAMP:20250318T160000Z
+DTSTART:20250318T160000Z
+DTEND:20250318T200000Z
+SUMMARY:Bias and Fairness in Data and AI
+DESCRIPTION:Topic: Artificial Intelligence (AI)\n\nMitigating bias in data
+  and AI systems from collection to application\n\nLevel:
+  intermediate\nInstructor: David Tarrant
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572015814:live-event:0642572015813:session:0642572015819
+STATUS:CONFIRMED
+CREATED:20250318T160000Z
+DTSTAMP:20250318T160000Z
+DTSTART:20250318T160000Z
+DTEND:20250318T170000Z
+SUMMARY:Tech Leadership Tuesday with Lena Reinhard: Leading Effective
+  Engineering Teams in the Age of Generative AI with Addy Osmani
+DESCRIPTION:Topic: Generative AI\n\nAsk Lena Reinhard and Addy Osmani your
+  questions around team leadership in the GenAI era\n\nLevel:
+  intermediate\nInstructor: Lena Reinhard\, Addy Osmani
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920092311:live-event:0642572011101:session:0642572011103
+STATUS:CONFIRMED
+CREATED:20250319T090000Z
+DTSTAMP:20250319T090000Z
+DTSTART:20250319T090000Z
+DTEND:20250319T130000Z
+SUMMARY:Software Design with Unit Tests
+DESCRIPTION:Topic: QA / Testing\n\nCreate practical and useful tests for
+  better software quality\n\nLevel: intermediate\nInstructor: Venkat
+  Subramaniam
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920092311:live-event:0642572011101:session:0642572011105
+STATUS:CONFIRMED
+CREATED:20250320T090000Z
+DTSTAMP:20250320T090000Z
+DTSTART:20250320T090000Z
+DTEND:20250320T130000Z
+SUMMARY:Software Design with Unit Tests
+DESCRIPTION:Topic: QA / Testing\n\nCreate practical and useful tests for
+  better software quality\n\nLevel: intermediate\nInstructor: Venkat
+  Subramaniam
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572014302:live-event:0642572014301:session:0642572014303
+STATUS:CONFIRMED
+CREATED:20250319T120000Z
+DTSTAMP:20250319T120000Z
+DTSTART:20250319T120000Z
+DTEND:20250319T160000Z
+SUMMARY:Modern Java Testing with JUnit 5 and AssertJ
+DESCRIPTION:Topic: JUnit\, Java\n\nLeveraging Java’s functional features
+  with parameterization\, conditional execution\, and filtering\n\nLevel:
+  intermediate\nInstructor: Ken Kousen
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572006753:live-event:0642572013883:session:0642572013885
+STATUS:CONFIRMED
+CREATED:20250319T120000Z
+DTSTAMP:20250319T120000Z
+DTSTART:20250319T120000Z
+DTEND:20250319T160000Z
+SUMMARY:Introduction to Microsoft Power BI
+DESCRIPTION:Topic: Power BI\n\nTransform raw data into insightful\,
+  shareable Power BI reports\n\nLevel: beginner\nInstructor: Daniil Maslyuk
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008023:live-event:0642572013826:session:0642572013828
+STATUS:CONFIRMED
+CREATED:20250319T120000Z
+DTSTAMP:20250319T120000Z
+DTSTART:20250319T120000Z
+DTEND:20250319T150000Z
+SUMMARY:Python Immersion
+DESCRIPTION:Topic: Python\n\nA Project-Based Approach to Learning the
+  World's Most Popular Programming Language\n\nLevel:
+  intermediate\nInstructor: Shaun Wassell
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008023:live-event:0642572013826:session:0642572013830
+STATUS:CONFIRMED
+CREATED:20250320T120000Z
+DTSTAMP:20250320T120000Z
+DTSTART:20250320T120000Z
+DTEND:20250320T150000Z
+SUMMARY:Python Immersion
+DESCRIPTION:Topic: Python\n\nA Project-Based Approach to Learning the
+  World's Most Popular Programming Language\n\nLevel:
+  intermediate\nInstructor: Shaun Wassell
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008023:live-event:0642572013826:session:0642572013832
+STATUS:CONFIRMED
+CREATED:20250321T120000Z
+DTSTAMP:20250321T120000Z
+DTSTART:20250321T120000Z
+DTEND:20250321T150000Z
+SUMMARY:Python Immersion
+DESCRIPTION:Topic: Python\n\nA Project-Based Approach to Learning the
+  World's Most Popular Programming Language\n\nLevel:
+  intermediate\nInstructor: Shaun Wassell
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145085649:live-event:0642572009109:session:0642572009111
+STATUS:CONFIRMED
+CREATED:20250319T130000Z
+DTSTAMP:20250319T130000Z
+DTSTART:20250319T130000Z
+DTEND:20250319T160000Z
+SUMMARY:ChatGPT for Project Management
+DESCRIPTION:Topic: Project Management\n\nEssential prompting techniques to
+  accelerate project success\n\nLevel: intermediate\nInstructor: David
+  Griffiths
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572007597:live-event:0642572013867:session:0642572013869
+STATUS:CONFIRMED
+CREATED:20250319T140000Z
+DTSTAMP:20250319T140000Z
+DTSTART:20250319T140000Z
+DTEND:20250319T180000Z
+SUMMARY:GenAI Foundations\, Fine-Tuning\, RAG\, and LLM Application
+  Development
+DESCRIPTION:Topic: Prompt Engineering\n\nUnderstand Gen AI and LLM basics
+  and get started on your deployment today\n\nLevel:
+  intermediate\nInstructor: Jerome Henry\, Rob Barton
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145068507:live-event:0642572014129:session:0642572014132
+STATUS:CONFIRMED
+CREATED:20250319T140000Z
+DTSTAMP:20250319T140000Z
+DTSTART:20250319T140000Z
+DTEND:20250319T190000Z
+SUMMARY:Exam AZ-500: Microsoft Azure Security Technologies Crash Course
+DESCRIPTION:Topic: AZ-500: Microsoft Azure Security
+  Technologies\n\n\n\nLevel: intermediate\nInstructor: Tim Warner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572009584:live-event:0642572014011:session:0642572014013
+STATUS:CONFIRMED
+CREATED:20250319T160000Z
+DTSTAMP:20250319T160000Z
+DTSTART:20250319T160000Z
+DTEND:20250319T200000Z
+SUMMARY:AWS Certified Developer Associate (DVA-C02) Exam Preparation
+DESCRIPTION:Topic: AWS Certified Developer - Associate\n\nBuild confidence
+  and increase your chances of passing the exam\n\nLevel: intermediate\,
+  advanced\nInstructor: Bill Boulden
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572006615:live-event:0642572014181:session:0642572014183
+STATUS:CONFIRMED
+CREATED:20250319T180000Z
+DTSTAMP:20250319T180000Z
+DTSTART:20250319T180000Z
+DTEND:20250319T210000Z
+SUMMARY:Building a Zero Trust Model in Cloud Security
+DESCRIPTION:Topic: Zero Trust Model\n\nMaster Zero Trust in Cloud security:
+  principles\, frameworks\, real-world scenarios\, and strategies\n\nLevel:
+  intermediate\nInstructor: Dr. Omotolani Olowosule
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572002862:live-event:0642572013965:session:0642572013967
+STATUS:CONFIRMED
+CREATED:20250320T120000Z
+DTSTAMP:20250320T120000Z
+DTSTART:20250320T120000Z
+DTEND:20250320T160000Z
+SUMMARY:Getting Started With Microsoft Fabric
+DESCRIPTION:Topic: Data Science\n\nLearn the fundamental skills to work
+  with Microsoft Fabric\n\nLevel: beginner\nInstructor: Nikola Ilic
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920446163:live-event:0642572009654:session:0642572009656
+STATUS:CONFIRMED
+CREATED:20250320T120000Z
+DTSTAMP:20250320T120000Z
+DTSTART:20250320T120000Z
+DTEND:20250320T150000Z
+SUMMARY:Microservices Application Decomposition
+DESCRIPTION:Topic: Microservices\n\nEvolutionary patterns for breaking down
+  your monolith into microservices\n\nLevel: intermediate\nInstructor: Sam
+  Newman
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145082232:live-event:0642572015138:session:0642572015140
+STATUS:CONFIRMED
+CREATED:20250320T120000Z
+DTSTAMP:20250320T120000Z
+DTSTART:20250320T120000Z
+DTEND:20250320T170000Z
+SUMMARY:Iterative Architecture by Example
+DESCRIPTION:Topic: Software Architecture\n\nTools to continuously improve
+  your architecture\n\nLevel: intermediate\nInstructor: Mark Richards\,
+  Neal Ford
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920078987:live-event:0642572013818:session:0642572013820
+STATUS:CONFIRMED
+CREATED:20250320T120000Z
+DTSTAMP:20250320T120000Z
+DTSTART:20250320T120000Z
+DTEND:20250320T160000Z
+SUMMARY:GitOps for Kubernetes
+DESCRIPTION:Topic: Kubernetes\n\nStreamline your work deploying Kubernetes
+  manifests with GitOps\n\nLevel: intermediate\nInstructor: Michael Levan
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920059829:live-event:0642572009832:session:0642572009834
+STATUS:CONFIRMED
+CREATED:20250320T130000Z
+DTSTAMP:20250320T130000Z
+DTSTART:20250320T130000Z
+DTEND:20250320T180000Z
+SUMMARY:Foundations of Microsoft Excel
+DESCRIPTION:Topic: Microsoft Excel\n\nFunctions\, tables\, pivot tables\,
+  and Power Query\n\nLevel: beginner\nInstructor: Dawn Griffiths
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572013427:live-event:0642572013426:session:0642572014328
+STATUS:CONFIRMED
+CREATED:20250320T140000Z
+DTSTAMP:20250320T140000Z
+DTSTART:20250320T140000Z
+DTEND:20250320T180000Z
+SUMMARY:Building Simple Web Apps with AI Tools
+DESCRIPTION:Topic: Generative AI\n\nClaude\, CursorAI\, and
+  JavaScript\n\nLevel: beginner\, intermediate\nInstructor: Lucas Soares
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572014016:live-event:0642572014015:session:0642572014021
+STATUS:CONFIRMED
+CREATED:20250320T140000Z
+DTSTAMP:20250320T140000Z
+DTSTART:20250320T140000Z
+DTEND:20250320T180000Z
+SUMMARY:Fundamentals of PowerShell
+DESCRIPTION:Topic: PowerShell\n\nLearn basic commands\, script creation\,
+  and Windows task automation\n\nLevel: beginner\nInstructor: James Petty
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920140719:live-event:0642572014237:session:0642572014239
+STATUS:CONFIRMED
+CREATED:20250320T140000Z
+DTSTAMP:20250320T140000Z
+DTSTART:20250320T140000Z
+DTEND:20250320T180000Z
+SUMMARY:Becoming a Hacker
+DESCRIPTION:Topic: Penetration Testing / Ethical Hacking\n\nAn Introduction
+  to Ethical Hacking\, Penetration Testing\, and Bug Hunting\n\nLevel:
+  beginner\nInstructor: Omar Santos
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920140719:live-event:0642572014237:session:0642572014241
+STATUS:CONFIRMED
+CREATED:20250321T140000Z
+DTSTAMP:20250321T140000Z
+DTSTART:20250321T140000Z
+DTEND:20250321T180000Z
+SUMMARY:Becoming a Hacker
+DESCRIPTION:Topic: Penetration Testing / Ethical Hacking\n\nAn Introduction
+  to Ethical Hacking\, Penetration Testing\, and Bug Hunting\n\nLevel:
+  beginner\nInstructor: Omar Santos
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572010589:live-event:0642572013948:session:0642572013950
+STATUS:CONFIRMED
+CREATED:20250320T160000Z
+DTSTAMP:20250320T160000Z
+DTSTART:20250320T160000Z
+DTEND:20250320T200000Z
+SUMMARY:Transformer Architectures for Generative AI
+DESCRIPTION:Topic: Transformers\n\nLearn how to use transformers for
+  complex NLP\, vision\, and multimodal AI models\n\nLevel:
+  advanced\nInstructor: Sinan Ozdemir
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054812:live-event:0642572011880:session:0642572011882
+STATUS:CONFIRMED
+CREATED:20250320T160000Z
+DTSTAMP:20250320T160000Z
+DTSTART:20250320T160000Z
+DTEND:20250320T170000Z
+SUMMARY:Artificial intelligence
+DESCRIPTION:Topic: Machine Learning\n\nAn overview of AI and machine
+  learning\n\nLevel: beginner\nInstructor: Alex Castrounis
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920099564:live-event:0642572009539:session:0642572009541
+STATUS:CONFIRMED
+CREATED:20250320T170000Z
+DTSTAMP:20250320T170000Z
+DTSTART:20250320T170000Z
+DTEND:20250320T210000Z
+SUMMARY:GenAI and LLMs for Product Managers
+DESCRIPTION:Topic: Generative AI\, Prompt Engineering\n\nTools and
+  Frameworks to navigate GenAI throughout the product lifecyle\n\nLevel:
+  beginner\nInstructor: Sudhir Wadhwa
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145086106:live-event:0642572010449:session:0642572010451
+STATUS:CONFIRMED
+CREATED:20250321T010000Z
+DTSTAMP:20250321T010000Z
+DTSTART:20250321T010000Z
+DTEND:20250321T060000Z
+SUMMARY:Getting Started with Kubernetes
+DESCRIPTION:Topic: Kubernetes\n\nFive hours to deploying your first
+  application\n\nLevel: beginner\nInstructor: Sean P. Kane
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572004026:live-event:0642572014404:session:0642572014406
+STATUS:CONFIRMED
+CREATED:20250321T120000Z
+DTSTAMP:20250321T120000Z
+DTSTART:20250321T120000Z
+DTEND:20250321T160000Z
+SUMMARY:Penetration Testing using Kali Linux
+DESCRIPTION:Topic: Kali Linux\n\nFast track your cybersecurity efforts and
+  safeguard assets against evolving threats\n\nLevel: beginner\,
+  intermediate\nInstructor: Vinit Jain
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572010110:live-event:0642572014193:session:0642572014195
+STATUS:CONFIRMED
+CREATED:20250321T140000Z
+DTSTAMP:20250321T140000Z
+DTSTART:20250321T140000Z
+DTEND:20250321T190000Z
+SUMMARY:Advanced Python: Functional Programming
+DESCRIPTION:Topic: Python\n\nUse functional programming to improve the
+  quality of your code\n\nLevel: advanced\nInstructor: James Powell
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920092684:live-event:0642572010521:session:0642572010523
+STATUS:CONFIRMED
+CREATED:20250321T160000Z
+DTSTAMP:20250321T160000Z
+DTSTART:20250321T160000Z
+DTEND:20250321T180000Z
+SUMMARY:Introduction to Microsoft Copilot for Security
+DESCRIPTION:Topic: Security Engineering\n\nHow AI can help increase
+  productivity and improve security posture\n\nLevel: beginner\,
+  intermediate\nInstructor: Razi Rais
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920078770:live-event:0642572013848:session:0642572013850
+STATUS:CONFIRMED
+CREATED:20250324T120000Z
+DTSTAMP:20250324T120000Z
+DTSTART:20250324T120000Z
+DTEND:20250324T160000Z
+SUMMARY:AWS Certified Solutions Architect Associate (SAA-C03) Crash Course
+DESCRIPTION:Topic: AWS Certified Solutions Architect - Associate\n\nGet
+  ready to crush the AWS Solutions Architect Associate exam!\n\nLevel:
+  intermediate\nInstructor: Chad Smith
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920078770:live-event:0642572013848:session:0642572013852
+STATUS:CONFIRMED
+CREATED:20250325T120000Z
+DTSTAMP:20250325T120000Z
+DTSTART:20250325T120000Z
+DTEND:20250325T160000Z
+SUMMARY:AWS Certified Solutions Architect Associate (SAA-C03) Crash Course
+DESCRIPTION:Topic: AWS Certified Solutions Architect - Associate\n\nGet
+  ready to crush the AWS Solutions Architect Associate exam!\n\nLevel:
+  intermediate\nInstructor: Chad Smith
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920282488:live-event:0642572014340:session:0642572014342
+STATUS:CONFIRMED
+CREATED:20250324T120000Z
+DTSTAMP:20250324T120000Z
+DTSTART:20250324T120000Z
+DTEND:20250324T160000Z
+SUMMARY:Software Architecture Characteristics: Defining\, Discovering\,
+  and Protecting Architecture
+DESCRIPTION:Topic: Software Architecture\n\nDefining\, Discovering\, and
+  Protecting Architecture\n\nLevel: intermediate\nInstructor: Neal Ford\,
+  Raju Gandhi
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920090999:live-event:0642572014151:session:0642572014153
+STATUS:CONFIRMED
+CREATED:20250324T120000Z
+DTSTAMP:20250324T120000Z
+DTSTART:20250324T120000Z
+DTEND:20250324T160000Z
+SUMMARY:GCP Associate Cloud Engineer Crash Course
+DESCRIPTION:Topic: Google Cloud Certified - Associate Cloud Engineer\n\nBe
+  Fully Prepared to Become a Certified Google Associate Cloud
+  Engineer!\n\nLevel: intermediate\nInstructor: Victor Dantas
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920090999:live-event:0642572014151:session:0642572014155
+STATUS:CONFIRMED
+CREATED:20250325T120000Z
+DTSTAMP:20250325T120000Z
+DTSTART:20250325T120000Z
+DTEND:20250325T160000Z
+SUMMARY:GCP Associate Cloud Engineer Crash Course
+DESCRIPTION:Topic: Google Cloud Certified - Associate Cloud Engineer\n\nBe
+  Fully Prepared to Become a Certified Google Associate Cloud
+  Engineer!\n\nLevel: intermediate\nInstructor: Victor Dantas
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572001348:live-event:0642572014291:session:0642572014293
+STATUS:CONFIRMED
+CREATED:20250324T140000Z
+DTSTAMP:20250324T140000Z
+DTSTART:20250324T140000Z
+DTEND:20250324T180000Z
+SUMMARY:CKAD in 8 Hours: Certified Kubernetes Application Developer Crash
+  Course
+DESCRIPTION:Topic: Kubernetes\n\nGet Ready to Crush the CKAD Exam with
+  Targeted Hands-on Learning\n\nLevel: intermediate\nInstructor: Sander van
+  Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572001348:live-event:0642572014291:session:0642572014295
+STATUS:CONFIRMED
+CREATED:20250325T140000Z
+DTSTAMP:20250325T140000Z
+DTSTART:20250325T140000Z
+DTEND:20250325T180000Z
+SUMMARY:CKAD in 8 Hours: Certified Kubernetes Application Developer Crash
+  Course
+DESCRIPTION:Topic: Kubernetes\n\nGet Ready to Crush the CKAD Exam with
+  Targeted Hands-on Learning\n\nLevel: intermediate\nInstructor: Sander van
+  Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920118909:live-event:0642572014265:session:0642572014267
+STATUS:CONFIRMED
+CREATED:20250324T150000Z
+DTSTAMP:20250324T150000Z
+DTSTART:20250324T150000Z
+DTEND:20250324T170000Z
+SUMMARY:Introduction to Critical Thinking
+DESCRIPTION:Topic: Critical Thinking\n\nThe basics for business\n\nLevel:
+  beginner\nInstructor: Connie Missimer
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920129271:live-event:0642572013936:session:0642572013938
+STATUS:CONFIRMED
+CREATED:20250324T150000Z
+DTSTAMP:20250324T150000Z
+DTSTART:20250324T150000Z
+DTEND:20250324T180000Z
+SUMMARY:SOLID Principles of Object-Oriented and Agile Design
+DESCRIPTION:Topic: Object-Oriented Architecture\n\n\n\nLevel:
+  intermediate\nInstructor: Robert C. Martin
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920097098:live-event:0642572010296:session:0642572010298
+STATUS:CONFIRMED
+CREATED:20250325T120000Z
+DTSTAMP:20250325T120000Z
+DTSTART:20250325T120000Z
+DTEND:20250325T140000Z
+SUMMARY:Prompting Bootcamp
+DESCRIPTION:Topic: Prompt Engineering\n\nCrafting Content with Generative
+  AI\n\nLevel: beginner\, intermediate\nInstructor: Sarah Tamsin\, Mike
+  Taylor
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920097098:live-event:0642572010296:session:0642572010300
+STATUS:CONFIRMED
+CREATED:20250326T120000Z
+DTSTAMP:20250326T120000Z
+DTSTART:20250326T120000Z
+DTEND:20250326T140000Z
+SUMMARY:Prompting Bootcamp
+DESCRIPTION:Topic: Prompt Engineering\n\nCrafting Content with Generative
+  AI\n\nLevel: beginner\, intermediate\nInstructor: Sarah Tamsin\, Mike
+  Taylor
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920080772:live-event:0642572011305:session:0642572011308
+STATUS:CONFIRMED
+CREATED:20250325T140000Z
+DTSTAMP:20250325T140000Z
+DTSTART:20250325T140000Z
+DTEND:20250325T170000Z
+SUMMARY:6 Rules for Communicating with Management
+DESCRIPTION:Topic: Professional Communication\n\nStrategies for getting
+  heard and advancing your career\n\nLevel: beginner\nInstructor: Roy
+  Weissman
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920468486:live-event:0642572014329:session:0642572014331
+STATUS:CONFIRMED
+CREATED:20250325T140000Z
+DTSTAMP:20250325T140000Z
+DTSTART:20250325T140000Z
+DTEND:20250325T180000Z
+SUMMARY:VXLAN and VXLAN-EVPN Deep Dive
+DESCRIPTION:Topic: VXLAN\n\nA comprehensive 2-day course on VXLAN and
+  VXLAN-EVPN to help you master the deployment and troubleshooting of VXLAN
+  technology\n\nLevel: beginner\, intermediate\nInstructor: Vinit Jain
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920468486:live-event:0642572014329:session:0642572014333
+STATUS:CONFIRMED
+CREATED:20250326T140000Z
+DTSTAMP:20250326T140000Z
+DTSTART:20250326T140000Z
+DTEND:20250326T180000Z
+SUMMARY:VXLAN and VXLAN-EVPN Deep Dive
+DESCRIPTION:Topic: VXLAN\n\nA comprehensive 2-day course on VXLAN and
+  VXLAN-EVPN to help you master the deployment and troubleshooting of VXLAN
+  technology\n\nLevel: beginner\, intermediate\nInstructor: Vinit Jain
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572013941:live-event:0642572013940:session:0642572013942
+STATUS:CONFIRMED
+CREATED:20250325T160000Z
+DTSTAMP:20250325T160000Z
+DTSTART:20250325T160000Z
+DTEND:20250325T200000Z
+SUMMARY:CompTIA SecurityX (CAS-005) Crash Course
+DESCRIPTION:Topic: CompTIA Security+\n\nHigh-impact bootcamp designed to
+  prepare you for exam success in just two days\n\nLevel:
+  intermediate\nInstructor: Michael J. Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572013941:live-event:0642572013940:session:0642572013943
+STATUS:CONFIRMED
+CREATED:20250326T160000Z
+DTSTAMP:20250326T160000Z
+DTSTART:20250326T160000Z
+DTEND:20250326T200000Z
+SUMMARY:CompTIA SecurityX (CAS-005) Crash Course
+DESCRIPTION:Topic: CompTIA Security+\n\nHigh-impact bootcamp designed to
+  prepare you for exam success in just two days\n\nLevel:
+  intermediate\nInstructor: Michael J. Shannon
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572013930:live-event:0642572013929:session:0642572013931
+STATUS:CONFIRMED
+CREATED:20250325T170000Z
+DTSTAMP:20250325T170000Z
+DTSTART:20250325T170000Z
+DTEND:20250325T200000Z
+SUMMARY:Introduction to AI Ethics and Safety
+DESCRIPTION:Topic: AI Ethics\n\nAI risks\, from the everyday to the
+  existential\n\nLevel: intermediate\nInstructor: Kate Harwood
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920078989:live-event:0642572014111:session:0642572014113
+STATUS:CONFIRMED
+CREATED:20250325T170000Z
+DTSTAMP:20250325T170000Z
+DTSTART:20250325T170000Z
+DTEND:20250325T200000Z
+SUMMARY:Master PowerPoint Presentations
+DESCRIPTION:Topic: Microsoft Powerpoint\n\nCreate more effective slide
+  presentations that command attention\n\nLevel: beginner\, intermediate\,
+  advanced\nInstructor: Larry Jordan
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920098606:live-event:0642572013999:session:0642572014001
+STATUS:CONFIRMED
+CREATED:20250326T120000Z
+DTSTAMP:20250326T120000Z
+DTSTART:20250326T120000Z
+DTEND:20250326T160000Z
+SUMMARY:AWS Certified Cloud Practitioner (CLF-C02) Crash Course
+DESCRIPTION:Topic: AWS Certified Cloud Practitioner\n\nGet the edge you
+  need to ace the AWS Cloud Practitioner CLF-C02 exam!\n\nLevel:
+  intermediate\nInstructor: Chad Smith
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920098606:live-event:0642572013999:session:0642572014003
+STATUS:CONFIRMED
+CREATED:20250327T120000Z
+DTSTAMP:20250327T120000Z
+DTSTART:20250327T120000Z
+DTEND:20250327T160000Z
+SUMMARY:AWS Certified Cloud Practitioner (CLF-C02) Crash Course
+DESCRIPTION:Topic: AWS Certified Cloud Practitioner\n\nGet the edge you
+  need to ace the AWS Cloud Practitioner CLF-C02 exam!\n\nLevel:
+  intermediate\nInstructor: Chad Smith
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920095339:live-event:0642572014297:session:0642572014299
+STATUS:CONFIRMED
+CREATED:20250326T140000Z
+DTSTAMP:20250326T140000Z
+DTSTART:20250326T140000Z
+DTEND:20250326T190000Z
+SUMMARY:Linux Security from Basics to Guru
+DESCRIPTION:Topic: Linux\n\nLearn how to build up Linux security from the
+  basics through advanced features\n\nLevel: intermediate\nInstructor:
+  Sander van Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920254577:live-event:0642572013758:session:0642572013760
+STATUS:CONFIRMED
+CREATED:20250326T140000Z
+DTSTAMP:20250326T140000Z
+DTSTART:20250326T140000Z
+DTEND:20250326T153000Z
+SUMMARY:Product management in 90 minutes
+DESCRIPTION:Topic: Product Management\n\nUnderstand the key connective role
+  of the 21st century\n\nLevel: beginner\nInstructor: Matt LeMay
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920056306:live-event:0642572014316:session:0642572014318
+STATUS:CONFIRMED
+CREATED:20250326T150000Z
+DTSTAMP:20250326T150000Z
+DTSTART:20250326T150000Z
+DTEND:20250326T170000Z
+SUMMARY:Life-Hack Your Day
+DESCRIPTION:Topic: Personal Productivity\n\nUnderstanding chronobiology and
+  its link to your productivity\n\nLevel: beginner\nInstructor: Connie
+  Missimer
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572006413:live-event:0642572014185:session:0642572014187
+STATUS:CONFIRMED
+CREATED:20250326T170000Z
+DTSTAMP:20250326T170000Z
+DTSTART:20250326T170000Z
+DTEND:20250326T210000Z
+SUMMARY:LLMs for Data Science
+DESCRIPTION:Topic: Data Science\n\nAutomate your work by leveraging
+  OpenAI\, Hugging Face\, PandasAI\, & LangChain\n\nLevel: intermediate\,
+  advanced\nInstructor: Bruno Gonçalves
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920053454:live-event:0642572013789:session:0642572013791
+STATUS:CONFIRMED
+CREATED:20250327T120000Z
+DTSTAMP:20250327T120000Z
+DTSTART:20250327T120000Z
+DTEND:20250327T160000Z
+SUMMARY:Microsoft Azure Developer Associate (AZ-204) Crash Course
+DESCRIPTION:Topic: AZ-204: Developing Solutions for Microsoft
+  Azure\n\nDeveloping solutions for Microsoft Azure\n\nLevel:
+  intermediate\nInstructor: Reza Salehi
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054911:live-event:0642572013887:session:0642572013889
+STATUS:CONFIRMED
+CREATED:20250327T120000Z
+DTSTAMP:20250327T120000Z
+DTSTART:20250327T120000Z
+DTEND:20250327T160000Z
+SUMMARY:Analyzing Data with Microsoft Power BI
+DESCRIPTION:Topic: Power BI\n\nPrepare\, Model\, Visualize\, and Analyze
+  Data Effectively\n\nLevel: beginner\, intermediate\nInstructor: Daniil
+  Maslyuk
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572015593:live-event:0642572015592:session:0642572015636
+STATUS:CONFIRMED
+CREATED:20250327T140000Z
+DTSTAMP:20250327T140000Z
+DTSTART:20250327T140000Z
+DTEND:20250327T180000Z
+SUMMARY:Working with o1\, DeepSeek\, and Gemini 2.0 Reasoning Capabilities
+DESCRIPTION:Topic: Large Language Models (LLMs)\n\nHow and when to use LLMs
+  for thinking and reasoning\n\nLevel: intermediate\nInstructor: Lucas
+  Soares
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920094356:live-event:0642572014165:session:0642572014167
+STATUS:CONFIRMED
+CREATED:20250327T140000Z
+DTSTAMP:20250327T140000Z
+DTSTART:20250327T140000Z
+DTEND:20250327T180000Z
+SUMMARY:GitHub Copilot for Developers
+DESCRIPTION:Topic: GitHub Copilot\n\nMaster GitHub Copilot for developers
+  of all skills levels.\n\nLevel: beginner\, intermediate\nInstructor: Tim
+  Warner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145047020:live-event:0642572012836:session:0642572012838
+STATUS:CONFIRMED
+CREATED:20250327T140000Z
+DTSTAMP:20250327T140000Z
+DTSTART:20250327T140000Z
+DTEND:20250327T180000Z
+SUMMARY:Introduction to Statistics and Data Analysis with Microsoft Excel
+DESCRIPTION:Topic: Statistics\n\nLearn how to use and apply Excel’s
+  statistical functions and tools\n\nLevel: advanced\nInstructor: Dawn
+  Griffiths
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572007492:live-event:0642572010473:session:0642572010475
+STATUS:CONFIRMED
+CREATED:20250327T140000Z
+DTSTAMP:20250327T140000Z
+DTSTART:20250327T140000Z
+DTEND:20250327T170000Z
+SUMMARY:Perfecting Your ChatGPT Prompts
+DESCRIPTION:Topic: GPT\n\nYour Guide to Practical\, Straightforward
+  Prompt-Writing for Generative AI\n\nLevel: intermediate\nInstructor:
+  Shaun Wassell
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572014419:live-event:0642572014418:session:0642572014420
+STATUS:CONFIRMED
+CREATED:20250205T160000Z
+DTSTAMP:20250205T160000Z
+DTSTART:20250205T160000Z
+DTEND:20250205T180000Z
+SUMMARY:Architectural Katas Winter 2025: AI-Enabled Architecture
+DESCRIPTION:Topic: Software Architecture\n\nChallenge your architecture
+  knowledge and your creativity in leveraging generative AI\n\nLevel:
+  intermediate\nInstructor: Mark Richards\, Neal Ford
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572014419:live-event:0642572014418:session:0642572014421
+STATUS:CONFIRMED
+CREATED:20250305T160000Z
+DTSTAMP:20250305T160000Z
+DTSTART:20250305T160000Z
+DTEND:20250305T180000Z
+SUMMARY:Architectural Katas Winter 2025: AI-Enabled Architecture
+DESCRIPTION:Topic: Software Architecture\n\nChallenge your architecture
+  knowledge and your creativity in leveraging generative AI\n\nLevel:
+  intermediate\nInstructor: Mark Richards\, Neal Ford
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572014419:live-event:0642572014418:session:0642572014422
+STATUS:CONFIRMED
+CREATED:20250327T150000Z
+DTSTAMP:20250327T150000Z
+DTSTART:20250327T150000Z
+DTEND:20250327T170000Z
+SUMMARY:Architectural Katas Winter 2025: AI-Enabled Architecture
+DESCRIPTION:Topic: Software Architecture\n\nChallenge your architecture
+  knowledge and your creativity in leveraging generative AI\n\nLevel:
+  intermediate\nInstructor: Mark Richards\, Neal Ford
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920123842:live-event:0642572014363:session:0642572014365
+STATUS:CONFIRMED
+CREATED:20250327T160000Z
+DTSTAMP:20250327T160000Z
+DTSTART:20250327T160000Z
+DTEND:20250327T200000Z
+SUMMARY:Ansible in 4 Hours
+DESCRIPTION:Topic: Ansible\n\nGet started with Ansible\n\nLevel:
+  intermediate\nInstructor: Sander van Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572013682:live-event:0642572013681:session:0642572013712
+STATUS:CONFIRMED
+CREATED:20250327T160000Z
+DTSTAMP:20250327T160000Z
+DTSTART:20250327T160000Z
+DTEND:20250327T190000Z
+SUMMARY:Anatomy of a Cyberattack
+DESCRIPTION:Topic: Penetration Testing / Ethical Hacking\n\nBots\, identity
+  attacks\, and artificial intelligence threats\n\nLevel: beginner\,
+  intermediate\nInstructor: Razi Rais
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008020:live-event:0642572014197:session:0642572014199
+STATUS:CONFIRMED
+CREATED:20250328T120000Z
+DTSTAMP:20250328T120000Z
+DTSTART:20250328T120000Z
+DTEND:20250328T160000Z
+SUMMARY:Advanced Python: API Design with Object Orientation
+DESCRIPTION:Topic: Python\n\nWrite APIs that "just work"\n\nLevel:
+  advanced\nInstructor: James Powell
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920094349:live-event:0642572014120:session:0642572014122
+STATUS:CONFIRMED
+CREATED:20250328T120000Z
+DTSTAMP:20250328T120000Z
+DTSTART:20250328T120000Z
+DTEND:20250328T160000Z
+SUMMARY:Java 9 to 21: How to Code Like a Pro
+DESCRIPTION:Topic: Java\n\nAll You Need to Know about Java’s New Features
+  and Benefits\n\nLevel: intermediate\nInstructor: Henri Tremblay
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572009862:live-event:0642572014225:session:0642572014227
+STATUS:CONFIRMED
+CREATED:20250328T140000Z
+DTSTAMP:20250328T140000Z
+DTSTART:20250328T140000Z
+DTEND:20250328T170000Z
+SUMMARY:Perplexity AI Essentials
+DESCRIPTION:Topic: AI Principles\n\nUnlock the power of GenAI to solve
+  problems and improve productivity\n\nLevel: intermediate\nInstructor:
+  Rick Crisci
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920070697:live-event:0642572014221:session:0642572014223
+STATUS:CONFIRMED
+CREATED:20250328T140000Z
+DTSTAMP:20250328T140000Z
+DTSTART:20250328T140000Z
+DTEND:20250328T180000Z
+SUMMARY:Getting Started with Kafka
+DESCRIPTION:Topic: Kafka\n\nBuilding Effective Data Pipelines\n\nLevel:
+  beginner\, intermediate\nInstructor: Douglas Eadline
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145083492:live-event:0642572014177:session:0642572014179
+STATUS:CONFIRMED
+CREATED:20250328T170000Z
+DTSTAMP:20250328T170000Z
+DTSTART:20250328T170000Z
+DTEND:20250328T210000Z
+SUMMARY:Coding Skills for Network Engineers
+DESCRIPTION:Topic: Coding Practices\n\nLearn how to build and maintain
+  network automation systems with formal programming skills\n\nLevel:
+  intermediate\nInstructor: Russ White\, Marlon Bailey
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920077731:live-event:0642572013840:session:0642572013842
+STATUS:CONFIRMED
+CREATED:20250328T170000Z
+DTSTAMP:20250328T170000Z
+DTSTART:20250328T170000Z
+DTEND:20250328T220000Z
+SUMMARY:Learn Infrastructure as Code with Terraform
+DESCRIPTION:Topic: Terraform\n\nCreate repeatable infrastructure with
+  Terraform\n\nLevel: intermediate\nInstructor: Robert Jordan
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572010502:live-event:0642572014125:session:0642572014127
+STATUS:CONFIRMED
+CREATED:20250331T120000Z
+DTSTAMP:20250331T120000Z
+DTSTART:20250331T120000Z
+DTEND:20250331T160000Z
+SUMMARY:Kubernetes GitOps With Flux and ArgoCD
+DESCRIPTION:Topic: GitLab\n\nStreamline and automate your Kubernetes
+  workload and containerized application deployments\n\nLevel:
+  intermediate\nInstructor: Michael Levan
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008151:live-event:0642572014423:session:0642572014425
+STATUS:CONFIRMED
+CREATED:20250331T120000Z
+DTSTAMP:20250331T120000Z
+DTSTART:20250331T120000Z
+DTEND:20250331T160000Z
+SUMMARY:Terraform Quick Start
+DESCRIPTION:Topic: Terraform\n\nLearn to automate cloud infrastructure in 4
+  hours\n\nLevel: intermediate\nInstructor: Dave Prowse
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145043946:live-event:0642572175665:session:0642572175689
+STATUS:CONFIRMED
+CREATED:20250331T130000Z
+DTSTAMP:20250331T130000Z
+DTSTART:20250331T130000Z
+DTEND:20250331T180000Z
+SUMMARY:Excel Skills for Finance
+DESCRIPTION:Topic: Finance\, Microsoft Excel\n\nFinancial functions\,
+  lookups\, conditional formatting\, and forecasts\n\nLevel:
+  intermediate\nInstructor: Dawn Griffiths
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572100057:live-event:0642572014017:session:0642572014019
+STATUS:CONFIRMED
+CREATED:20250331T140000Z
+DTSTAMP:20250331T140000Z
+DTSTART:20250331T140000Z
+DTEND:20250331T180000Z
+SUMMARY:Data Analysis with Python
+DESCRIPTION:Topic: Python\n\nEmpowering data-driven insights and proactive
+  decision-making\n\nLevel: beginner\, intermediate\nInstructor: Chester
+  Ismay
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920367628:live-event:0642572014358:session:0642572014361
+STATUS:CONFIRMED
+CREATED:20250331T140000Z
+DTSTAMP:20250331T140000Z
+DTSTART:20250331T140000Z
+DTEND:20250331T170000Z
+SUMMARY:Using Ansible Automation Platform and AWX
+DESCRIPTION:Topic: Ansible\n\nLearn to Manage Ansible from a Web
+  Interface\n\nLevel: intermediate\nInstructor: Sander van Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920090248:live-event:0642572014134:session:0642572014136
+STATUS:CONFIRMED
+CREATED:20250331T140000Z
+DTSTAMP:20250331T140000Z
+DTSTART:20250331T140000Z
+DTEND:20250331T180000Z
+SUMMARY:ChatGPT and GitHub Copilot in 4 Hours
+DESCRIPTION:Topic: GPT\n\nGet Started with AI Services Right Now!\n\nLevel:
+  beginner\, intermediate\nInstructor: Tim Warner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572002004:live-event:0642572172398:session:0642572172411
+STATUS:CONFIRMED
+CREATED:20250331T160000Z
+DTSTAMP:20250331T160000Z
+DTSTART:20250331T160000Z
+DTEND:20250331T200000Z
+SUMMARY:Generative AI Essentials with ChatGPT\, Copilot\, and Gemini
+DESCRIPTION:Topic: Generative AI\n\nImprove IT workflows\, automate tasks\,
+  and build your own chatbot in just 4 hours\n\nLevel:
+  intermediate\nInstructor: Aamir Lakhani
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920436867:live-event:0642572011844:session:0642572011846
+STATUS:CONFIRMED
+CREATED:20250401T090000Z
+DTSTAMP:20250401T090000Z
+DTSTART:20250401T090000Z
+DTEND:20250401T120000Z
+SUMMARY:Domain-Driven Design: First Steps
+DESCRIPTION:Topic: Domain-Driven Design\n\nBuilding Software that solves
+  the hard problems.\n\nLevel: beginner\nInstructor: Andrew Harmel-Law
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008628:live-event:0642572014558:session:0642572014560
+STATUS:CONFIRMED
+CREATED:20250401T090000Z
+DTSTAMP:20250401T090000Z
+DTSTART:20250401T090000Z
+DTEND:20250401T120000Z
+SUMMARY:Leadership Bootcamp
+DESCRIPTION:Topic: Organizational Leadership\n\nBuilding influence and
+  impacting your organization\n\nLevel: beginner\nInstructor: Sujatha Das
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572008628:live-event:0642572014558:session:0642572014562
+STATUS:CONFIRMED
+CREATED:20250402T090000Z
+DTSTAMP:20250402T090000Z
+DTSTART:20250402T090000Z
+DTEND:20250402T120000Z
+SUMMARY:Leadership Bootcamp
+DESCRIPTION:Topic: Organizational Leadership\n\nBuilding influence and
+  impacting your organization\n\nLevel: beginner\nInstructor: Sujatha Das
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920094177:live-event:0642572014772:session:0642572014774
+STATUS:CONFIRMED
+CREATED:20250401T120000Z
+DTSTAMP:20250401T120000Z
+DTSTART:20250401T120000Z
+DTEND:20250401T160000Z
+SUMMARY:AI-Enabled Programming\, Networking\, and Cybersecurity
+DESCRIPTION:Topic: Artificial Intelligence (AI)\n\nPractical Applications
+  with ChatGPT\, Copilot\, and Beyond\n\nLevel: intermediate\nInstructor:
+  Omar Santos
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920079316:live-event:0642572011229:session:0642572011231
+STATUS:CONFIRMED
+CREATED:20250401T120000Z
+DTSTAMP:20250401T120000Z
+DTSTART:20250401T120000Z
+DTEND:20250401T140000Z
+SUMMARY:Deep Learning for Beginners in 3 Weeks
+DESCRIPTION:Topic: Deep Learning\n\nFrom basics to production with NumPy
+  and TensorFlow\n\nLevel: beginner\, intermediate\nInstructor: Thomas
+  Nield
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920079316:live-event:0642572011229:session:0642572011233
+STATUS:CONFIRMED
+CREATED:20250408T120000Z
+DTSTAMP:20250408T120000Z
+DTSTART:20250408T120000Z
+DTEND:20250408T140000Z
+SUMMARY:Deep Learning for Beginners in 3 Weeks
+DESCRIPTION:Topic: Deep Learning\n\nFrom basics to production with NumPy
+  and TensorFlow\n\nLevel: beginner\, intermediate\nInstructor: Thomas
+  Nield
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920079316:live-event:0642572011229:session:0642572011235
+STATUS:CONFIRMED
+CREATED:20250415T120000Z
+DTSTAMP:20250415T120000Z
+DTSTART:20250415T120000Z
+DTEND:20250415T140000Z
+SUMMARY:Deep Learning for Beginners in 3 Weeks
+DESCRIPTION:Topic: Deep Learning\n\nFrom basics to production with NumPy
+  and TensorFlow\n\nLevel: beginner\, intermediate\nInstructor: Thomas
+  Nield
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572014740:live-event:0642572014739:session:0642572014741
+STATUS:CONFIRMED
+CREATED:20250401T120000Z
+DTSTAMP:20250401T120000Z
+DTSTART:20250401T120000Z
+DTEND:20250401T160000Z
+SUMMARY:AWS AI Practitioner Crash Course
+DESCRIPTION:Topic: OpenAI\n\nLearn the fundamentals of AI and start using
+  it in your AWS solutions\n\nLevel: intermediate\, advanced\nInstructor:
+  Chad Smith
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145068795:live-event:0642572015054:session:0642572015056
+STATUS:CONFIRMED
+CREATED:20250401T120000Z
+DTSTAMP:20250401T120000Z
+DTSTART:20250401T120000Z
+DTEND:20250401T170000Z
+SUMMARY:ChatGPT for Software Architects
+DESCRIPTION:Topic: Software Architecture\n\nUnderstand how to use
+  generative AI to enhance your architectural processes\n\nLevel:
+  intermediate\nInstructor: Rohit Bhardwaj
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145074140:live-event:0642572011568:session:0642572011570
+STATUS:CONFIRMED
+CREATED:20250401T120000Z
+DTSTAMP:20250401T120000Z
+DTSTART:20250401T120000Z
+DTEND:20250401T150000Z
+SUMMARY:Hands-on Retrieval Augmented Generation (RAG)
+DESCRIPTION:Topic: Large Language Models (LLMs)\n\nUsing LlamaIndex and
+  GPT-4 Turbo retrieval\n\nLevel: intermediate\nInstructor: Jonathan
+  Fernandes
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572000111:live-event:0642572014045:session:0642572014047
+STATUS:CONFIRMED
+CREATED:20250401T140000Z
+DTSTAMP:20250401T140000Z
+DTSTART:20250401T140000Z
+DTEND:20250401T180000Z
+SUMMARY:CISSP Certification Crash Course [2024 Edition]
+DESCRIPTION:Topic: CISSP (Certified Information Systems Security
+  Professional)\n\nGet the edge you need to ace the CISSP exam!\n\nLevel:
+  intermediate\nInstructor: Sari Greene
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0642
+ 572000111:live-event:0642572014045:session:0642572014049
+STATUS:CONFIRMED
+CREATED:20250402T140000Z
+DTSTAMP:20250402T140000Z
+DTSTART:20250402T140000Z
+DTEND:20250402T180000Z
+SUMMARY:CISSP Certification Crash Course [2024 Edition]
+DESCRIPTION:Topic: CISSP (Certified Information Systems Security
+  Professional)\n\nGet the edge you need to ace the CISSP exam!\n\nLevel:
+  intermediate\nInstructor: Sari Greene
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145067802:live-event:0642572009510:session:0642572009512
+STATUS:CONFIRMED
+CREATED:20250401T140000Z
+DTSTAMP:20250401T140000Z
+DTSTART:20250401T140000Z
+DTEND:20250401T160000Z
+SUMMARY:Using Generative AI to Land Your Next Job
+DESCRIPTION:Topic: Artificial Intelligence (AI)\n\nImprove your search\,
+  optimize your resume\, and practice for the interview\n\nLevel:
+  intermediate\nInstructor: Ben Gold
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920093949:live-event:0642572011011:session:0642572011013
+STATUS:CONFIRMED
+CREATED:20250401T140000Z
+DTSTAMP:20250401T140000Z
+DTSTART:20250401T140000Z
+DTEND:20250401T180000Z
+SUMMARY:Certified Kubernetes Application Developer (CKAD) Crash Course in 3
+  Days
+DESCRIPTION:Topic: Certified Kubernetes Application Developer
+  (CKAD)\n\nIn-depth and Hands-on Practice for Acing the Exam\n\nLevel:
+  intermediate\nInstructor: Benjamin Muschko
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920093949:live-event:0642572011011:session:0642572011015
+STATUS:CONFIRMED
+CREATED:20250402T140000Z
+DTSTAMP:20250402T140000Z
+DTSTART:20250402T140000Z
+DTEND:20250402T180000Z
+SUMMARY:Certified Kubernetes Application Developer (CKAD) Crash Course in 3
+  Days
+DESCRIPTION:Topic: Certified Kubernetes Application Developer
+  (CKAD)\n\nIn-depth and Hands-on Practice for Acing the Exam\n\nLevel:
+  intermediate\nInstructor: Benjamin Muschko
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920093949:live-event:0642572011011:session:0642572011017
+STATUS:CONFIRMED
+CREATED:20250403T140000Z
+DTSTAMP:20250403T140000Z
+DTSTART:20250403T140000Z
+DTEND:20250403T180000Z
+SUMMARY:Certified Kubernetes Application Developer (CKAD) Crash Course in 3
+  Days
+DESCRIPTION:Topic: Certified Kubernetes Application Developer
+  (CKAD)\n\nIn-depth and Hands-on Practice for Acing the Exam\n\nLevel:
+  intermediate\nInstructor: Benjamin Muschko
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920077845:live-event:0642572015113:session:0642572015116
+STATUS:CONFIRMED
+CREATED:20250401T140000Z
+DTSTAMP:20250401T140000Z
+DTSTART:20250401T140000Z
+DTEND:20250401T180000Z
+SUMMARY:Red Hat Certified System Administrator (RHCSA) RHEL 9 Crash Course
+DESCRIPTION:Topic: Red Hat Certified System Administrator (RHCSA)\n\nLabs\,
+  demos\, and real-world homework to prepare you for the RHCSA
+  exam\n\nLevel: intermediate\, advanced\nInstructor: Sander van Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920077845:live-event:0642572015113:session:0642572015118
+STATUS:CONFIRMED
+CREATED:20250402T140000Z
+DTSTAMP:20250402T140000Z
+DTSTART:20250402T140000Z
+DTEND:20250402T180000Z
+SUMMARY:Red Hat Certified System Administrator (RHCSA) RHEL 9 Crash Course
+DESCRIPTION:Topic: Red Hat Certified System Administrator (RHCSA)\n\nLabs\,
+  demos\, and real-world homework to prepare you for the RHCSA
+  exam\n\nLevel: intermediate\, advanced\nInstructor: Sander van Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920077845:live-event:0642572015113:session:0642572015120
+STATUS:CONFIRMED
+CREATED:20250403T140000Z
+DTSTAMP:20250403T140000Z
+DTSTART:20250403T140000Z
+DTEND:20250403T180000Z
+SUMMARY:Red Hat Certified System Administrator (RHCSA) RHEL 9 Crash Course
+DESCRIPTION:Topic: Red Hat Certified System Administrator (RHCSA)\n\nLabs\,
+  demos\, and real-world homework to prepare you for the RHCSA
+  exam\n\nLevel: intermediate\, advanced\nInstructor: Sander van Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920077845:live-event:0642572015113:session:0642572015122
+STATUS:CONFIRMED
+CREATED:20250404T140000Z
+DTSTAMP:20250404T140000Z
+DTSTART:20250404T140000Z
+DTEND:20250404T180000Z
+SUMMARY:Red Hat Certified System Administrator (RHCSA) RHEL 9 Crash Course
+DESCRIPTION:Topic: Red Hat Certified System Administrator (RHCSA)\n\nLabs\,
+  demos\, and real-world homework to prepare you for the RHCSA
+  exam\n\nLevel: intermediate\, advanced\nInstructor: Sander van Vugt
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920058757:live-event:0642572014277:session:0642572014279
+STATUS:CONFIRMED
+CREATED:20250401T150000Z
+DTSTAMP:20250401T150000Z
+DTSTART:20250401T150000Z
+DTEND:20250401T170000Z
+SUMMARY:Mental Models Fundamentals
+DESCRIPTION:Topic: Critical Thinking\n\nLearn better and faster using
+  mental models\n\nLevel: intermediate\nInstructor: Connie Missimer
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054111:live-event:0642572011276:session:0642572011279
+STATUS:CONFIRMED
+CREATED:20250401T160000Z
+DTSTAMP:20250401T160000Z
+DTSTART:20250401T160000Z
+DTEND:20250401T200000Z
+SUMMARY:Python in 5 Weeks: Python Programming for Beginners—with
+  Interactivity
+DESCRIPTION:Topic: Python\n\nPython programming for beginners\n\nLevel:
+  beginner\, intermediate\nInstructor: Reuven M. Lerner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054111:live-event:0642572011276:session:0642572011281
+STATUS:CONFIRMED
+CREATED:20250408T160000Z
+DTSTAMP:20250408T160000Z
+DTSTART:20250408T160000Z
+DTEND:20250408T200000Z
+SUMMARY:Python in 5 Weeks: Python Programming for Beginners—with
+  Interactivity
+DESCRIPTION:Topic: Python\n\nPython programming for beginners\n\nLevel:
+  beginner\, intermediate\nInstructor: Reuven M. Lerner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054111:live-event:0642572011276:session:0642572011283
+STATUS:CONFIRMED
+CREATED:20250415T160000Z
+DTSTAMP:20250415T160000Z
+DTSTART:20250415T160000Z
+DTEND:20250415T200000Z
+SUMMARY:Python in 5 Weeks: Python Programming for Beginners—with
+  Interactivity
+DESCRIPTION:Topic: Python\n\nPython programming for beginners\n\nLevel:
+  beginner\, intermediate\nInstructor: Reuven M. Lerner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054111:live-event:0642572011276:session:0642572011286
+STATUS:CONFIRMED
+CREATED:20250422T160000Z
+DTSTAMP:20250422T160000Z
+DTSTART:20250422T160000Z
+DTEND:20250422T200000Z
+SUMMARY:Python in 5 Weeks: Python Programming for Beginners—with
+  Interactivity
+DESCRIPTION:Topic: Python\n\nPython programming for beginners\n\nLevel:
+  beginner\, intermediate\nInstructor: Reuven M. Lerner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920054111:live-event:0642572011276:session:0642572011288
+STATUS:CONFIRMED
+CREATED:20250429T160000Z
+DTSTAMP:20250429T160000Z
+DTSTART:20250429T160000Z
+DTEND:20250429T200000Z
+SUMMARY:Python in 5 Weeks: Python Programming for Beginners—with
+  Interactivity
+DESCRIPTION:Topic: Python\n\nPython programming for beginners\n\nLevel:
+  beginner\, intermediate\nInstructor: Reuven M. Lerner
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920053458:live-event:0642572012752:session:0642572012754
+STATUS:CONFIRMED
+CREATED:20250401T160000Z
+DTSTAMP:20250401T160000Z
+DTSTART:20250401T160000Z
+DTEND:20250401T190000Z
+SUMMARY:Event-Driven Architecture and Data
+DESCRIPTION:Topic: Software Architecture\n\nA hands-on course for
+  extracting and using events from existing data stores\n\nLevel:
+  intermediate\nInstructor: Adam Bellemare
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920084308:live-event:0642572015196:session:0642572015198
+STATUS:CONFIRMED
+CREATED:20250401T170000Z
+DTSTAMP:20250401T170000Z
+DTSTART:20250401T170000Z
+DTEND:20250401T200000Z
+SUMMARY:Difficult Conversations and Negotiations Made Easy
+DESCRIPTION:Topic: Professional Communication\n\nA Framework to Achieve
+  Better Outcomes from Challenging Communications\n\nLevel: beginner\,
+  intermediate\, advanced\nInstructor: Louisa Weinstein
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920097594:live-event:0642572015074:session:0642572015076
+STATUS:CONFIRMED
+CREATED:20250402T120000Z
+DTSTAMP:20250402T120000Z
+DTSTART:20250402T120000Z
+DTEND:20250402T170000Z
+SUMMARY:Python Cookbook: Recipes for AI and Machine Learning
+DESCRIPTION:Topic: Python\n\nMaster the art of data science in Python with
+  a showcase of reusable projects\n\nLevel: intermediate\nInstructor: Shaun
+  Wassell
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0790
+ 145086122:live-event:0642572165857:session:0642572165871
+STATUS:CONFIRMED
+CREATED:20250402T120000Z
+DTSTAMP:20250402T120000Z
+DTSTART:20250402T120000Z
+DTEND:20250402T160000Z
+SUMMARY:Polars Fundamentals
+DESCRIPTION:Topic: Natural Language Processing\n\nOptimized data analysis
+  in the age of LLMs\n\nLevel: intermediate\nInstructor: Liam Brannigan
+END:VEVENT
+BEGIN:VEVENT
+UID:github.com/raaminz/oreilly-events-ical/1@urn:orm:live-event-series:0636
+ 920099736:live-event:0642572009052:session:0642572009054
+STATUS:CONFIRMED
+CREATED:20250402T130000Z
+DTSTAMP:20250402T130000Z
+DTSTART:20250402T130000Z
+DTEND:20250402T160000Z
+SUMMARY:Using Generative AI to Boost Your Personal Productivity
+DESCRIPTION:Topic: Personal Productivity\n\nGet more done each day with the
+  help of AI\n\nLevel: intermediate\nInstructor: David Griffiths
+END:VEVENT
+END:VCALENDAR
