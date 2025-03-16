@@ -1,0 +1,20 @@
+BEGIN:VCALENDAR
+PRODID:-//AddEvent Inc//AddEvent.com v1.7//EN
+VERSION:2.0
+BEGIN:VEVENT
+DTSTAMP:20250316T093436Z
+STATUS:CONFIRMED
+UID:1742117676addeventcom
+DTSTART:20250317T170000
+DTEND:20250317T200000
+SUMMARY:Fundamentals of Learning: Learn faster and better using neuroscience [O’Reilly Live Event]
+DESCRIPTION:Many of us feel overwhelmed by the sheer amount of knowledge— and disinformation— we face daily. Currently there are over a dozen theories about how best to learn\, suggesting that the complexity of the brain coupled with human variability have made this a challenging field. However\, the field of learning-science offers some major findings about how the brain learns\, some of them counterintuitive. It seems we’ve been wasting a lot of time on learning! In this course we’ll tackle three areas: In the first hour\, mapping what you want to learn to two major methods\; in the second hour\, ways to locate the best-supported information\; and in the third hour\, ways to evaluate the information. There will be throughout a great deal of group chat.\n\nAPAC friendly time.\n\nWith Connie Missimer\n\nClick to view the full event details or join when the event is in session: https://learning.oreilly.com/live-events/-/0636920064594/0642572014257/?utm_medium=calendar&utm_source=schedule%2Breminder&utm_campaign=calendar%2Bapple&utm_content=fundamentals-of-learning-learn-faster-and-better-using-neuroscience \n\n
+X-ALT-DESC;FMTTYPE=text/html:<p>Many of us feel overwhelmed by the sheer amount of knowledge— and disinformation— we face daily. Currently there are over a dozen theories about how best to learn, suggesting that the complexity of the brain coupled with human variability have made this a challenging field. However, the field of learning-science offers some major findings about how the brain learns, some of them counterintuitive. It seems we’ve been wasting a lot of time on learning! In this course we’ll tackle three areas: In the first hour, mapping what you want to learn to two major methods; in the second hour, ways to locate the best-supported information; and in the third hour, ways to evaluate the information. There will be throughout a great deal of group chat.</p><p>APAC friendly time.</p> <br /><p>With Connie Missimer</p> <p>Click to view the full event details or join when the event is in session: https://learning.oreilly.com/live-events/-/0636920064594/0642572014257/?utm_medium=calendar&utm_source=schedule%2Breminder&utm_campaign=calendar%2Bapple&utm_content=fundamentals-of-learning-learn-faster-and-better-using-neuroscience </p>
+BEGIN:VALARM
+TRIGGER:-PT15M
+ACTION:DISPLAY
+DESCRIPTION:Reminder
+END:VALARM
+TRANSP:OPAQUE
+END:VEVENT
+END:VCALENDAR

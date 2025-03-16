@@ -1,0 +1,114 @@
+{
+  "data": {
+    "liveEvents": {
+      "count": 2,
+      "results": [
+        {
+          "productIdentifier": "0642572011429",
+          "seriesIdentifier": "0636920090983",
+          "ourn": "urn:orm:live-event-series:0636920090983:live-event:0642572011429",
+          "title": "System Design Interview Boot Camp",
+          "shortDescription": "Solve complex problems using a proven framework\n\n\n",
+          "slug": "system-design-interview-boot-camp",
+          "startDatetime": "2025-03-04T03:00:00Z",
+          "endDatetime": "2025-03-05T07:00:00Z",
+          "cardTier": 2,
+          "eventType": "Online Training Course",
+          "contentLevels": [
+            "intermediate"
+          ],
+          "productType": "live-event",
+          "marketingType": {
+            "id": "00000000-0000-0000-0000-000000000032",
+            "name": "live course"
+          },
+          "academies": [],
+          "registrationCloses": "2025-03-04T05:00:00Z",
+          "contributors": [
+            {
+              "fullName": "Rohit Bhardwaj",
+              "headshotUrl2": "https://cdn.oreillystatic.com/authors/trim/prod/images/43902-100x100.jpg"
+            }
+          ],
+          "sessions": [
+            {
+              "ourn": "urn:orm:live-event-series:0636920090983:live-event:0642572011429:session:0642572011431",
+              "startTime": "2025-03-04T03:00:00Z",
+              "endTime": "2025-03-04T07:00:00Z"
+            },
+            {
+              "ourn": "urn:orm:live-event-series:0636920090983:live-event:0642572011429:session:0642572011433",
+              "startTime": "2025-03-05T03:00:00Z",
+              "endTime": "2025-03-05T07:00:00Z"
+            }
+          ],
+          "topics": [
+            {
+              "topicId": "6e25a2e8-9e44-4af9-8b82-298743f3235c",
+              "name": "Software Architecture",
+              "tagType": "major"
+            }
+          ],
+          "registrationInfo": {
+            "openSeats": 103,
+            "userRegistrationStatus": "unregistered",
+            "cancelled": false,
+            "registrationIsOpen": true,
+            "waitlistStarted": false
+          },
+          "upcomingLiveEventsInSeries": []
+        },
+        {
+          "productIdentifier": "0642572011848",
+          "seriesIdentifier": "0636920080767",
+          "ourn": "urn:orm:live-event-series:0636920080767:live-event:0642572011848",
+          "title": "Architecture Decision Making by Example",
+          "shortDescription": "A guide for architects and developers\n\n\n",
+          "slug": "architecture-decision-making-by-example",
+          "startDatetime": "2025-03-04T10:00:00Z",
+          "endDatetime": "2025-03-04T13:00:00Z",
+          "cardTier": 2,
+          "eventType": "Online Training Course",
+          "contentLevels": [
+            "intermediate"
+          ],
+          "productType": "live-event",
+          "marketingType": {
+            "id": "00000000-0000-0000-0000-000000000032",
+            "name": "live course"
+          },
+          "academies": [],
+          "registrationCloses": "2025-03-04T11:30:00Z",
+          "contributors": [
+            {
+              "fullName": "Andrew Harmel-Law",
+              "headshotUrl2": "https://cdn.oreillystatic.com/authors/trim/prod/images/40729-100x100.jpg"
+            }
+          ],
+          "sessions": [
+            {
+              "ourn": "urn:orm:live-event-series:0636920080767:live-event:0642572011848:session:0642572011850",
+              "startTime": "2025-03-04T10:00:00Z",
+              "endTime": "2025-03-04T13:00:00Z"
+            }
+          ],
+          "topics": [
+            {
+              "topicId": "6e25a2e8-9e44-4af9-8b82-298743f3235c",
+              "name": "Software Architecture",
+              "tagType": "primary"
+            }
+          ],
+          "registrationInfo": {
+            "openSeats": 119,
+            "userRegistrationStatus": "unregistered",
+            "cancelled": false,
+            "registrationIsOpen": true,
+            "waitlistStarted": false
+          },
+          "upcomingLiveEventsInSeries": []
+        }
+      ]
+    }
+  }
+}
